@@ -9,6 +9,20 @@ body {
   background-color: black;
 }
 
+main {
+  padding: 70px 0;
+}
+
+a {
+  text-decoration: none;
+  color: beige;
+}
+
+h1 {
+  text-align: center;
+  color: beige;
+}
+
 li {
   display: inline;
   padding: 0px 20px;
@@ -22,10 +36,9 @@ header {
   background-color: lightpink;
 }
 
-h1 {
-  text-align: center;
-  color: beige;
-
+header {
+  position: fixed;
+  border-bottom: 10px solid darkolivegreen;
 }
 
 .text-right {
