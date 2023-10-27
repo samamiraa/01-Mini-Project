@@ -9,6 +9,20 @@ body {
   background-color: black;
 }
 
+main {
+  padding: 70px 0;
+}
+
+a {
+  text-decoration: none;
+  color: beige;
+}
+
+h1 {
+  text-align: center;
+  color: beige;
+}
+
 img {
   display: block;
   margin: 0 auto;
@@ -27,9 +41,9 @@ header {
   background-color: lightpink;
 }
 
-h1 {
-  text-align: center;
-  color: beige;
+header {
+  position: fixed;
+  border-bottom: 10px solid darkolivegreen;
 }
 
 .text-right {
