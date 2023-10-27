@@ -18,7 +18,8 @@ a {
   color: beige;
 }
 
-h1 {
+h1,
+h2 {
   text-align: center;
   color: beige;
   margin: 20px;
