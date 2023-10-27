@@ -21,6 +21,7 @@ a {
 h1 {
   text-align: center;
   color: beige;
+  margin: 20px;
 }
 
 img {
@@ -52,4 +53,6 @@ header {
 
 .text-center {
   text-align: center;
+  color: beige;
+  padding: 20px;
 }
